@@ -8,6 +8,3 @@ https://github.com/用户名/repository仓库名/raw/分支名master/图片文�
 看不懂吧,其实就是将blob改成raw就行,万一还看不懂就看图:
 
 [外链图片转存失败(img-KOUtNT40-1564318766792)(https://github.com/fanfan999/MyPostImage/raw/master/关于Markdown图片无法显示的问题解决方法/modifySite.png)]
-————————————————
-版权声明：本文为CSDN博主「fanfan要努力呀」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/qq_41223155/article/details/89672742
